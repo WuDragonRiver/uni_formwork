@@ -2,7 +2,7 @@
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
 		<view>
-			<text class="title">{{title}}</text>
+			<u-button>11</u-button>
 		</view>
 	</view>
 </template>
@@ -23,7 +23,7 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
 	.content {
 		display: flex;
 		flex-direction: column;
